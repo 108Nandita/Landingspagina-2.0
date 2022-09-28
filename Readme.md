@@ -1,1 +1,1 @@
-landingspagina 2.0 mogelijk maken
+git landingspagina 2.0 mogelijk maken
